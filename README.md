@@ -32,6 +32,7 @@ Baixe a versão de acordo com sua plataforma, e salve em um local em que voce se
 
 1.15 - Na tela de Install System Service, clique em Install e confirme com Sim
 ![OpenRGB Imagem 6](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem6.png?raw=true)
+
 2 - Artemis: https://artemis-rgb.com/
 
 2.1 - Instalação
