@@ -11,8 +11,8 @@ Você vai precisar de ambos os programas, baixe os de acordo com sua plataforma 
 Apos baixar o OpenRGB, clique nos 3 traços do canto superior direito "Menu", va em "Plugins" desça a pagina e va ate o OpenRGB Visual Map Plugin clique em "More Info and Releases"
 Baixe a versão de acordo com sua plataforma, e salve em um local em que voce se lembrara (Caso seja Windows baixe a versão Windows (64-bit), não baixe a versão installer)
 
-        1.1 - Instalação do OpenRGB
-              1.11 - Apos baixar o instalador abra e siga os passos de Instalação conforme as imagens a seguir
+1.1 - Instalação do OpenRGB
+1.11 - Apos baixar o instalador abra e siga os passos de Instalação conforme as imagens a seguir
 
 1.12 - Clique em Next para prosseguir com a instalação
 ![OpenRGB Imagem 1](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem1.png?raw=true)
@@ -31,10 +31,9 @@ Baixe a versão de acordo com sua plataforma, e salve em um local em que voce se
 
 1.15 - Na tela de Install System Service, clique em Install e confirme com Sim
 ![OpenRGB Imagem 6](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem6.png?raw=true)
-      
 2 - Artemis: https://artemis-rgb.com/
 
-        2.1 - Instalação
+2.1 - Instalação
 
 2.11 - Tela inicial do instalador do Artemis
 ![Artemis Imagem 1](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/Artemisimage1.png?raw=true)
@@ -50,15 +49,15 @@ Baixe a versão de acordo com sua plataforma, e salve em um local em que voce se
 
 3 - Configuração OpenRGB
 
-        3.1 - OpenRGB
-              3.11 - Antes de iniciar o OpenRGB pela primeira vez, clique com o botão direito va em propriedades e marque para sempre executar como administrador
-              3.12 - Apos abrir ignore tudo que estiver na sua tela e va direto em Settings -> General Settings
-              3.13 - Marque as caixas "Minimize on Close", "Show LED View by Default", Shared SMBus Access, e Serve All Devices,(Se voce tiver uma CPU da AMD marque também a caixa "AMD SMBus")
-              3.14 - Ainda em Settings clique em Plugins -> Install Plugin, e escolha o arquivo OpenRGBVisualMapPlugin.dll baixado anteriormente. Verifique se a caixa Enabled esta ativa, caso não esteja ative.
-              3.15 - Clique em Save Profile, encerre o OpenRGB e abra novamente
+3.1 - OpenRGB
+3.11 - Antes de iniciar o OpenRGB pela primeira vez, clique com o botão direito va em propriedades e marque para sempre executar como administrador
+3.12 - Apos abrir ignore tudo que estiver na sua tela e va direto em Settings -> General Settings
+3.13 - Marque as caixas "Minimize on Close", "Show LED View by Default", Shared SMBus Access, e Serve All Devices,(Se voce tiver uma CPU da AMD marque também a caixa "AMD SMBus")
+3.14 - Ainda em Settings clique em Plugins -> Install Plugin, e escolha o arquivo OpenRGBVisualMapPlugin.dll baixado anteriormente. Verifique se a caixa Enabled esta ativa, caso não esteja ative.
+3.15 - Clique em Save Profile, encerre o OpenRGB e abra novamente
               
         3.2 - Visual Map 
-              3.21 - Apos os passos anteriores o seu OpenRGB agora deve conter um botão adicional no topo escrito "Visual Map", nesse menu voce montara o layout de Led das suas peças, ou seja, caso sua peça seja uma barra de Led Horizontal com 10 Leds, voce conseguira identificar cada Led individual da sua barra, coloca-los na horizontal e ordenados tudo isso sera ensinado nos passos a seguir.
+3.21 - Apos os passos anteriores o seu OpenRGB agora deve conter um botão adicional no topo escrito "Visual Map", nesse menu voce montara o layout de Led das suas peças, ou seja, caso sua peça seja uma barra de Led Horizontal com 10 Leds, voce conseguira identificar cada Led individual da sua barra, coloca-los na horizontal e ordenados tudo isso sera ensinado nos passos a seguir.
               3.22 - No Menu Lateral Esquerdo voce encontrara todas as peças que o OpenRGB esta reconhecendo no seu computador, por questões de representação do tamanho real das peças e integração com o Artemis recomendo que crie um Layout para cada peça, mesmo sendo possível a criação de um Layout em que todas as peças estão juntas isso cria vários problemas no futuro, então adicione apenas uma peça de sua escolha ao layout clicando no simbolo + ao lado da peça de sua escolha, caso facilite para sua localização voce pode renomear o nome da peça clicando no ícone do meio a esquerda do +
               3.23 - Ao adicionar a peça ao Grid, va ao Menu Lateral Direito em Width e Height coloque o valor de 20, esse e o espaço em que voce trabalhara com seus Leds, caso sua peça tenha mais do que 20 Leds de Largura aumente o Width, 20 Leds de Altura aumente o Height, e assim por diante, não se preocupe muito com esses valores pois apos o fim da configuração voce usara o botão Auto Resize para deixar a peça no tamanho perfeito, porem para fazer a configuração recomendo que deixe um espaço amplo para nenhum LED ficar de fora do Grid.
               3.24 - Clique na peça dentro do Grid e aperte o botão Identify no Menu Lateral Direito, esse botão faz a peça acender na cor verde, assim facilitando a identificação da peça em que voce esta mexendo
