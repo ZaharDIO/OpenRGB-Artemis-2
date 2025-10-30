@@ -27,6 +27,7 @@ Baixe a versão de acordo com sua plataforma, e salve em um local em que voce se
 ![OpenRGB Imagem 4](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem4.png?raw=true)
 
 1.14.2 - Confirme o local de instalação
+
 ![OpenRGB Imagem 5](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem5.png?raw=true)
 
 1.15 - Na tela de Install System Service, clique em Install e confirme com Sim
