@@ -13,28 +13,39 @@ Baixe a versão de acordo com sua plataforma, e salve em um local em que voce se
 
         1.1 - Instalação do OpenRGB
               1.11 - Apos baixar o instalador abra e siga os passos de Instalação conforme as imagens a seguir
+
+1.12 - Clique em Next para prosseguir com a instalação
 ![OpenRGB Imagem 1](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem1.png?raw=true)
+
+1.13 - Aceite os termos de uso e clique em Next
 ![OpenRGB Imagem 2](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem2.png?raw=true)
-              1.14 - Imagem 3 Caso voce deseje trocar o local de instalação clique em "Change" e siga os passos 1.14.1 em diante (LEMBRE-SE DO LUGAR EM QUE FOI INSTALADO POIS O MESMO SERA NECESSÁRIO EM UM PASSO FUTURO)
+
+1.14 - Caso voce deseje trocar o local de instalação clique em "Change" e siga os passos 1.14.1 em diante (LEMBRE-SE DO LUGAR EM QUE FOI INSTALADO POIS O MESMO SERA NECESSÁRIO EM UM PASSO FUTURO)
 ![OpenRGB Imagem 3](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem3.png?raw=true)
-              1.14.1 - Imagem 4
+
+1.14.1 - Selecione o local de instalação desejado
 ![OpenRGB Imagem 4](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem4.png?raw=true)
-              1.14.2 - Imagem 5
+
+1.14.2 - Confirme o local de instalação
 ![OpenRGB Imagem 5](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem5.png?raw=true)
-              1.15 - Imagem 6
-              Install System Service -> Install -> Sim
+
+1.15 - Na tela de Install System Service, clique em Install e confirme com Sim
 ![OpenRGB Imagem 6](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem6.png?raw=true)
       
 2 - Artemis: https://artemis-rgb.com/
 
         2.1 - Instalação
-              2.11 - Imagem 1
+
+2.11 - Tela inicial do instalador do Artemis
 ![Artemis Imagem 1](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/Artemisimage1.png?raw=true)
-              2.11 - Imagem 2 Caso voce deseje trocar o local de instalação clique nas 3 bolinhas indicadas na imagem (LEMBRE-SE DO LUGAR EM QUE FOI INSTALADO)
+
+2.12 - Caso voce deseje trocar o local de instalação clique nas 3 bolinhas indicadas na imagem (LEMBRE-SE DO LUGAR EM QUE FOI INSTALADO)
 ![Artemis Imagem 2](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/Artemisimage2.png?raw=true)
-              2.11 - Imagem 3
+
+2.13 - Aguarde a instalação ser concluída
 ![Artemis Imagem 3](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/Artemisimage3.png?raw=true)
-              2.11 - Imagem 4
+
+2.14 - Instalação concluída com sucesso
 ![Artemis Imagem 4](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/Artemisimage4.png?raw=true)
 
 3 - Configuração OpenRGB
