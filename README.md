@@ -1,5 +1,5 @@
-# OpenRGB-Artemis-2-Guide
-In this guide i will describe how to make OpenRGB and Artemis work together and how to configure some aspects of both programs
+# OpenRGB-Artemis-2-Guia
+Nesse guia vou descrever como fazer o OpenRGB e o ArtemisRGB funcionarem juntos
 
 IMPORTANTE
 Ambos os programas funcionam utilizando a tecnologia aRGB (Led Endereçável ou Addressable RGB) portanto antes de prosseguir verifique se suas peças são compatíveis com essa tecnologia, caso suas peças tenham suporte aos programas Asus AuraSync, RGB Fusion, iCUE, ha grandes chances de ele possuir os Leds aRGB, porem caso voce esteja querendo montar um setup inteiro com peças aRGB sempre verifique antes se os Leds de fato são endereçáveis. Outra maneira de identificar e verificar se sua peça possui o cabo aRGB da imagem abaixo, porem sempre confirme, veja videos de pessoas que ja possuem a peça para verificar se os Leds são de fato compatíveis.
