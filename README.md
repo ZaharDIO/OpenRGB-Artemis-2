@@ -14,30 +14,30 @@ Baixe a versão de acordo com sua plataforma, e salve em um local em que voce se
         1.1 - Instalação do OpenRGB
               1.11 - Apos baixar o instalador abra e siga os passos de Instalação conforme as imagens a seguir
               1.12 - Imagem 1 
-![OpenRGB Imagem 1](images/imagem1.png)
+![OpenRGB Imagem 1](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem1.png?raw=true)
               1.13 - Imagem 2
-![OpenRGB Imagem 2](images/imagem2.png)
+![OpenRGB Imagem 2](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem2.png?raw=true)
               1.14 - Imagem 3 Caso voce deseje trocar o local de instalação clique em "Change" e siga os passos 1.14.1 em diante (LEMBRE-SE DO LUGAR EM QUE FOI INSTALADO POIS O MESMO SERA NECESSÁRIO EM UM PASSO FUTURO)
-![OpenRGB Imagem 3](images/imagem3.png)
+![OpenRGB Imagem 3](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem3.png?raw=true)
                     1.14.1 - Imagem 4 
-![OpenRGB Imagem 4](images/imagem4.png)
+![OpenRGB Imagem 4](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem4.png?raw=true)
                     1.14.2 - Imagem 5
-![OpenRGB Imagem 5](images/imagem5.png)
+![OpenRGB Imagem 5](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem5.png?raw=true)
               1.15 - Imagem 6
               Install System Service -> Install -> Sim
-![OpenRGB Imagem 6](images/imagem6.png)
+![OpenRGB Imagem 6](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem6.png?raw=true)
       
 2 - Artemis: https://artemis-rgb.com/
 
         2.1 - Instalação
               2.11 - Imagem 1
-![Artemis Imagem 1](images/Artemisimage1.png)
+![Artemis Imagem 1](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/Artemisimage1.png?raw=true)
               2.11 - Imagem 2 Caso voce deseje trocar o local de instalação clique nas 3 bolinhas indicadas na imagem (LEMBRE-SE DO LUGAR EM QUE FOI INSTALADO)
-![Artemis Imagem 2](images/Artemisimage2.png)
+![Artemis Imagem 2](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/Artemisimage2.png?raw=true)
               2.11 - Imagem 3
-![Artemis Imagem 3](images/Artemisimage3.png)
+![Artemis Imagem 3](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/Artemisimage3.png?raw=true)
               2.11 - Imagem 4
-![Artemis Imagem 4](images/Artemisimage4.png)
+![Artemis Imagem 4](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/Artemisimage4.png?raw=true)
 
 3 - Configuração OpenRGB
 
