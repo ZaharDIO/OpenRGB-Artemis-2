@@ -96,7 +96,7 @@ Baixe a versão de acordo com sua plataforma, e salve em um local em que voce se
 
 5.3 - No ArtemisRGB você conseguirá configurar os efeitos de milhares de jeitos, ensinarei a fazer três efeitos diferentes: Ambilight, Rainbow e XInput
 
-5.4 - Antes de iniciar a criação dos efeitos é necessário verificar se o Layout do OpenRGB está chegando corretamente, assim conseguimos
+5.4 - Antes de iniciar a criação dos efeitos é necessário verificar se o Layout do OpenRGB está chegando corretamente, para fazer isso clique em "Surface Editor" aqui você encontrará todas as suas peças. clique com o botão direito e depois em identify, vá em "Properties"
 
 5.3 - Configurar os Efeitos
       
