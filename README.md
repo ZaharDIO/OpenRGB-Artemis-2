@@ -14,7 +14,7 @@ Você vai precisar de ambos os programas, OpenRGB e ArtemisRGB faça o download 
 
 - OpenRGB: https://openrgb.org/
 
-Após baixar o OpenRGB, clique nos 3 traços do canto superior direito "Menu", vá em "Plugins", desça a página e vá até o OpenRGB Visual Map Plugin clique em "More Info and Releases"
+Após baixar o OpenRGB, ainda no site clique nos 3 traços do canto superior direito "Menu", vá em "Plugins", desça a página e vá até o OpenRGB Visual Map Plugin clique em "More Info and Releases"
 Baixe a versão de acordo com sua plataforma, e salve em um local em que voce se lembrará. (Caso seja WINDOWS: Baixe a versão Windows (64-bit), não baixe a versão installer)
 
 1 - Instalação do OpenRGB
