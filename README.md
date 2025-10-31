@@ -6,7 +6,7 @@ Ambos os programas funcionam utilizando a tecnologia aRGB (Led Endereçável ou 
 
 <img width="304" height="163" alt="image" src="https://github.com/user-attachments/assets/a1038d1c-77c9-43ea-8527-d761986187ed" />
 
-Também pode ocorrer de suas peças terem a conexão mas a sua placa mãe não, nesse caso recomendo fortemente que comprem a "Controladora RGB Nollie", a quantidade de canais vai depender de quantas peças você possui com essa tecnologia, indo de 8, 16 ou 32 canais
+Também pode ocorrer de suas peças terem a conexão mas a sua placa mãe não, nesse caso recomendo fortemente que comprem a "Controladora RGB Nollie", a quantidade de canais vai depender de quantas peças você possui com essa tecnologia, indo entre 8, 16 ou 32 canais
 
 - PRIMEIROS PASSOS
 
