@@ -85,4 +85,14 @@ Baixe a versão de acordo com sua plataforma, e salve em um local em que voce se
 4.7 - Quando terminar de configurar a sua peça clique em "Auto Resize" e ele fechará o Grid no tamanho perfeito para a sua peça. No Menu Lateral Direito marque as caixas "Auto Load" e "Auto Register", clique em "VMap Menu", marque a opção "Register Controller" e clique em "Save", coloque o nome da sua peça, vá ao Menu Superior vá em "Devices" e clique em "Save Profile" para garantir que suas alterações foram salvas.
               
 4.8 - Caso queira adicionar uma nova peça, volte ao menu "Visual Map", no Menu Lateral Esquerdo clique em "VMap", "New Map", Adicione sua nova peça clique em "Auto Resize" para desbugar sua visão e aumente o tamanho do Grid novamente ("Width" e "Height"), repita os passos 4.2 em diante para definir o Layout da sua peça novamente, e vá fazendo isso até ter todas as suas peças mapeadas em Layouts diferentes
+
+4.9 - Após finalizar a configuração dos seus layouts, no Menu Superior clique em "SDK Server", e depois em Start Server.
+
+5 - Artemis 2
+
+5.1 - Ao abrir o Artemis 2, vá em plugins e baixe o plugin do OpenRGB, depois configure ele (Desenvolver mais)
+
+5.2 - Verificar se o Layout do OpenRGB está chegando
+
+5.3 - Configurar os Efeitos
       
