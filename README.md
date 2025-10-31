@@ -144,7 +144,8 @@ Clique em "Auto Resize" no Menu Lateral Direito, e para desbugar sua visão vá 
 Esse é o espaço em que você trabalhará com seus LEDs, caso sua peça tenha mais do que 20 LEDs de Largura aumente o "Width", 20 LEDs de Altura aumente o "Height", e assim por diante, não se preocupe muito com esses valores pois após o fim da configuração você usará o botão "Auto Resize" para deixar a peça no tamanho perfeito, mas para fazer a configuração recomendo que deixe um espaço amplo para nenhum LED ficar de fora do Grid.
 
 4.3 - Clique na peça dentro do Grid e aperte o botão "Identify" no Menu Lateral Direito. 
-![alt text](images/image-8.png) 
+![alt text](images/image-8.png)
+
 Esse botão faz a peça acender na cor verde, assim facilitando a identificação da peça em que você está mexendo. 
 ![alt text](images/image-9.png)
 ![alt text](images/image-10.png)
@@ -156,6 +157,7 @@ Com isso surgirá um novo botão "Edit Shape".
 4.5 - Ao clicar em "Edit Shape" aparecerá o menu de configuração das posições dos LEDs da sua peça, nesse menu você tem várias opções para reordenar os LEDs, porém recomendo que teste por conta própria o que cada uma faz, por hora utilizaremos apenas o botão "Auto Identify" e reordenaremos manualmente, ao marcar essa opção você pode clicar em um LED de sua escolha e ele acenderá, assim você consegue definir exatamente qual a posição de cada LED de acordo com a sua peça.
 ![alt text](images/image-11.png)![alt text](images/image-13.png)
 ![alt text](images/image-14.png)![alt text](images/image-15.png)
+
 Ao identificar as posições dos seus LEDs clique e arraste-os de maneira que eles fiquem na posição em que você acredite se encaixar melhor com a orientação das suas peças no gabinete. Caso precise aumentar o grid, mexa nas opções "Width" e "Height", assim como no Menu anterior é sempre importante deixar todos os LEDs dentro do Grid e apertar a opção Auto Resize ao final da configuração para garantir que a sua peça esta no tamanho correto. Ao finalizar clique em "Save".
 ![alt text](images/image-16.png)
 
