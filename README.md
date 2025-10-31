@@ -9,7 +9,7 @@ Ambos os programas funcionam utilizando a tecnologia aRGB (Led Endereçável ou 
 
 PRIMEIROS PASSOS
 
-Você vai precisar de ambos os programas, OpenRGB e Artemis 2 faça o download de acordo com a sua plataforma. (Windows, Linux, MacOS)
+Você vai precisar de ambos os programas, OpenRGB e ArtemisRGB faça o download de acordo com a sua plataforma. (Windows, Linux, MacOS)
 
 - OpenRGB: https://openrgb.org/
 
@@ -38,9 +38,9 @@ Baixe a versão de acordo com sua plataforma, e salve em um local em que voce se
 1.5 - Nessa tela clique em "Install System Service", e confirme com "Sim".
 ![OpenRGB Imagem 6](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem6.png?raw=true)
 
-- Artemis 2: https://artemis-rgb.com/
+- ArtemisRGB: https://artemis-rgb.com/
 
-2 - Instalação do Artemis 2
+2 - Instalação do ArtemisRGB
 
 2.1 - Tela inicial do instalador do Artemis.
 ![Artemis Imagem 1](https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/Artemisimage1.png?raw=true)
@@ -88,11 +88,15 @@ Baixe a versão de acordo com sua plataforma, e salve em um local em que voce se
 
 4.9 - Após finalizar a configuração dos seus layouts, no Menu Superior clique em "SDK Server", e depois em Start Server.
 
-5 - Artemis 2
+5 - ArtemisRGB
 
-5.1 - Ao abrir o Artemis 2, vá em plugins e baixe o plugin do OpenRGB, depois configure ele (Desenvolver mais)
+5.1 - Ao abrir o ArtemisRGB, clique em "Continue" ao aparecer a aba de "Device Provider" vá até o plugin "OpenRGB Device Provider" e clique em "Enable Feature"
 
-5.2 - Verificar se o Layout do OpenRGB está chegando
+5.2 - Não marque nada e clique em "Continue" e depois "Finish", reinicie o seu ArtemisRGB, e após isso o setup inicial está configurado.
+
+5.3 - No ArtemisRGB você conseguirá configurar os efeitos de milhares de jeitos, ensinarei a fazer três efeitos diferentes: Ambilight, Rainbow e XInput
+
+5.4 - Antes de iniciar a criação dos efeitos é necessário verificar se o Layout do OpenRGB está chegando corretamente, assim conseguimos
 
 5.3 - Configurar os Efeitos
       
