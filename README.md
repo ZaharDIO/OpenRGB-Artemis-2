@@ -2,7 +2,7 @@
 Nesse guia vou descrever como fazer o OpenRGB e o ArtemisRGB trabalharem juntos.
 
 IMPORTANTE:
-Ambos os programas funcionam utilizando a tecnologia aRGB (Led Endereçável ou Addressable RGB) portanto antes de prosseguir verifique se suas peças são compatíveis com essa tecnologia, caso suas peças tenham suporte aos programas Asus AuraSync, RGB Fusion, iCUE, Razer Chroma, há grandes chances de possuir os LEDs aRGB, porém caso voce esteja querendo montar um setup inteiro com peças aRGB sempre verifique antes, veja vídeos de pessoas que já possuem a peça para confirmar se os LEDs são de fato endereçáveis. Outra maneira de identificar é verificar se a sua peça possui a conexão aRGB da imagem abaixo.
+Ambos os programas funcionam utilizando a tecnologia aRGB (Led Endereçável ou Addressable RGB) portanto antes de prosseguir verifique se suas peças são compatíveis com essa tecnologia, caso suas peças tenham suporte aos programas Asus AuraSync, RGB Fusion, iCUE, Razer Chroma, há grandes chances de possuir os LEDs aRGB, porém caso você esteja querendo montar um setup inteiro com peças aRGB sempre verifique antes, veja vídeos de pessoas que já possuem a peça para confirmar se os LEDs são de fato endereçáveis. Outra maneira de identificar é verificar se a sua peça possui a conexão aRGB da imagem abaixo.
 
 <img width="304" height="163" alt="image" src="https://github.com/user-attachments/assets/a1038d1c-77c9-43ea-8527-d761986187ed" />
 
