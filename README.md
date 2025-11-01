@@ -41,22 +41,22 @@ Você vai precisar de ambos os programas, OpenRGB e ArtemisRGB faça o download 
 
 ### 1.4 - Caso você deseje trocar o local de instalação clique em "Change" e siga os passos 1.4.1 em diante. (LEMBRE-SE DO LUGAR EM QUE FOI INSTALADO POIS O MESMO SERÁ NECESSÁRIO NO FUTURO)
 <p align="center">
-<img src="https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem3.png?raw=true" alt="OpenRGB Imagem3"/>
+  <img src="https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem3.png?raw=true" alt="OpenRGB Imagem 3"/>
 </p>
 
 #### 1.4.1 - Selecione o local de instalação desejado.
-<p align = "center">
-<img src = "https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem4.png?raw=true" alt = "OpenRGB Imagem 2"/>
+<p align="center">
+  <img src="https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem4.png?raw=true" alt="OpenRGB Imagem 4"/>
 </p>
 
 #### 1.4.2 - Confirme o local de instalação
-<p align = "center">
-<img src = "https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem5.png?raw=true" alt = "OpenRGB Imagem 2"/>
+<p align="center">
+  <img src="https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem5.png?raw=true" alt="OpenRGB Imagem 5"/>
 </p>
 
 ### 1.5 - Nessa tela clique em "Install System Service", e confirme com "Sim".
-<p align = "center">
-<img src = "https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem6.png?raw=true" alt = "OpenRGB Imagem 2"/>
+<p align="center">
+  <img src="https://github.com/ZaharDIO/OpenRGB-Artemis-2/blob/main/images/imagem6.png?raw=true" alt="OpenRGB Imagem 6"/>
 </p>
 
 <p align="center">
