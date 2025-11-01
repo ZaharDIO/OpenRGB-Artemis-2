@@ -116,7 +116,7 @@ Após baixar o OpenRGB,  ainda no site, clique nos 3 traços do canto superior d
   <img src="images/image-3.png" alt="Enable Plugin"/>
 </p>
 
-### 3.7 - Clique em Save Profile, encerre o OpenRGB e abra novamente. 
+### 3.7 - Clique em Save Profile, reinicie o OpenRGB (Encerre o processo pelo gerenciador de tarefas), e abra novamente. 
 <p align="center">
   <img src="images/image-4.png" alt="Save Profile"/>
 </p>
@@ -173,15 +173,18 @@ Após baixar o OpenRGB,  ainda no site, clique nos 3 traços do canto superior d
 
 ## 5 - ArtemisRGB
 
-### 5.1 - Ao abrir o ArtemisRGB, clique em "Continue" ao aparecer a aba de "Device Provider" vá até o plugin "OpenRGB Device Provider" e clique em "Enable Feature"
+### 5.1 - Ao abrir o ArtemisRGB, clique em "Continue" ao aparecer a aba de "Device Provider" vá até o plugin "OpenRGB Device Provider" e clique em "Enable Feature" e "Continue", no próximo Menu não marque nada, clique em "Continue" e depois "Finish". 
 
-### 5.2 - Não marque nada e clique em "Continue" e depois "Finish", após isso vá em "Settings", desça até encontrar a opção "Target Frame Rate", coloque em 45 fps, após isso reinicie o seu ArtemisRGB, e o setup inicial está configurado.
+### 5.2 - Após isso vá em "Settings", "General" e desça até encontrar a opção "Target Frame Rate", coloque em 45 fps, após isso reinicie o seu ArtemisRGB (Encerre o processo pelo gerenciador de tarefas), e o setup inicial está configurado.
 
 ### 5.3 - No ArtemisRGB você conseguirá configurar os efeitos mais diversos possíveis, ensinarei a fazer dois efeitos diferentes: 
 ### Ambilight = Sincroniza as Cores da sua Tela com as dos seus LEDs 
 ### Rainbow   = Circulo RGB que fica girando no centro do seu gabinete
 
-### 5.4 - Antes de iniciar a criação dos efeitos é necessário verificar se o Layout do OpenRGB está chegando corretamente, para fazer isso clique em "Surface Editor" aqui você encontrará todas as suas peças. clique com o botão direito e depois em "Identify", esse botão fará sua peça começar a piscar, clique com o direito e vá em "View Properties" e depois em "Scale", esse parâmetro define a escala da sua peça, ajuste valores de acordo com a sua escolha para representar o tamanho real, pois você pode ter uma peça com 12 LEDs e 20cm, e uma com 12 LEDs e 10cm, como a escala inicial considera o valor 1, ambas as peças teriam o mesmo tamanho no "Surface Editor", o que resulta em efeitos aparecendo incorretamente, por isso é importante alterar a escala das suas peças para corresponder ao tamanho e posição delas em comparação com as outras no gabinete.
+### 5.4 - Antes de iniciar a criação dos efeitos é necessário verificar se o Layout do OpenRGB está chegando corretamente, para fazer isso clique em "Surface Editor" aqui você encontrará todas as suas peças. clique com o botão direito e depois em "Identify", esse botão fará sua peça começar a piscar, clique com o direito e vá em "View Properties" e depois em "Scale", esse parâmetro define a escala da sua peça, ajuste valores de acordo com a sua escolha para representar o tamanho real, pois você pode ter uma peça com 12 LEDs e 20cm, e uma com 12 LEDs e 10cm, como a escala inicial considera o valor 1, ambas as peças teriam o mesmo tamanho no "Surface Editor", mas o correto seria a peça de 10 cm ter a escala 0.5, o que resultaria em efeitos aparecendo incorretamente, por isso é importante alterar a escala das suas peças para corresponder ao tamanho e posição delas em comparação com as outras no gabinete.
 
 ### 5.3 - Configuração de Efeitos
+
+
+
       
