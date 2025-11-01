@@ -177,10 +177,9 @@ Você vai precisar de ambos os programas, OpenRGB e ArtemisRGB faça o download 
 
 ### 5.2 - Não marque nada e clique em "Continue" e depois "Finish", após isso vá em "Settings", desça até encontrar a opção "Target Frame Rate", coloque em 45 fps, após isso reinicie o seu ArtemisRGB, e o setup inicial está configurado.
 
-### 5.3 - No ArtemisRGB você conseguirá configurar os efeitos mais diversos possíveis, ensinarei a fazer três efeitos diferentes: 
+### 5.3 - No ArtemisRGB você conseguirá configurar os efeitos mais diversos possíveis, ensinarei a fazer dois efeitos diferentes: 
 ### Ambilight = Sincroniza as Cores da sua Tela com as dos seus LEDs 
 ### Rainbow   = Circulo RGB que fica girando no centro do seu gabinete
-### XInput    = Pega dados XInput dos seus controles e muda o efeito RGB de acordo com o botão pressionado
 
 ### 5.4 - Antes de iniciar a criação dos efeitos é necessário verificar se o Layout do OpenRGB está chegando corretamente, para fazer isso clique em "Surface Editor" aqui você encontrará todas as suas peças. clique com o botão direito e depois em "Identify", esse botão fará sua peça começar a piscar, clique com o direito e vá em "View Properties" e depois em "Scale", esse parâmetro define a escala da sua peça, ajuste valores de acordo com a sua escolha para representar o tamanho real, pois você pode ter uma peça com 12 LEDs e 20cm, e uma com 12 LEDs e 10cm, como a escala inicial considera o valor 1, ambas as peças teriam o mesmo tamanho no "Surface Editor", o que resulta em efeitos aparecendo incorretamente, por isso é importante alterar a escala das suas peças para corresponder ao tamanho e posição delas em comparação com as outras no gabinete.
 
